@@ -20,6 +20,8 @@
 
 #### 🔗 Links 🔗
 
+https://radiant-bonbon-4a2fec.netlify.app/
+
 https://www.dio.me/
 
 https://www.avanade.com/pt-br
